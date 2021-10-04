@@ -1,0 +1,21 @@
+*{
+    margin : 0;
+    padding : 0;
+
+}
+.wrapper{
+    width :1080px;
+    align-self : center;
+    margin :auto;
+    position:fixed;
+}
+
+header{
+    background-image: url(E:\kiran\html\online quiz application\bg.jpeg);
+    height: 100vh;
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+
+}
